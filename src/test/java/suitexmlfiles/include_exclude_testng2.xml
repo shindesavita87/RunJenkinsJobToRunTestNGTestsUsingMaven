@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample Test Suite" verbose="1" >
+  <test name="Method Test Cases" >
+    <classes>
+       <class name="testngwithxml.IncludeExcludeDemo">
+        <methods>
+        <include name="test3" />
+        <exclude name="test2" />
+        <include name="test1" />
+      </methods>
+       </class>
+    </classes>
+  </test>
+</suite>

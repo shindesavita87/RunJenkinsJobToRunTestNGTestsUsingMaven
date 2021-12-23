@@ -1,0 +1,3 @@
+TestCaseName,BeforeLogim,ID,UserName,Password,VerifyText,Execute
+loginForDifferentUsers_Test,Welcome: Mercury Tours,1,Savita20,@Savita20,Find a Flight: Mercury Tours:,YES
+loginForDifferentUsers_Test,Welcome: Mercury Tours,1,Savita20,@Savita20,Find a Flight: Mercury Tours:,YES
